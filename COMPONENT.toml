@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-databricks"
+version = "0.1.0"
+category = "data-science"
+description = "Databricks lakehouse workspace and job integration for SigmaOS"
